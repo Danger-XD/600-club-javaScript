@@ -16,3 +16,6 @@ Problems:
 // problem 6
 // problem 7
 
+Git commit message format:
+chapter n done
+where n = 1,2,3,4...
