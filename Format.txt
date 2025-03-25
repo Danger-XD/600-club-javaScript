@@ -1,11 +1,11 @@
-Lessons:
-lesson1.js
-lesson2.js
-lesson3.js
-lesson4.js
-lesson5.js
-lesson6.js
-lesson7.js
+Practices:
+practice1.js
+practice2.js
+practice3.js
+practice4.js
+practice5.js
+practice6.js
+practice7.js
 
 Problems:
 // problem 1
