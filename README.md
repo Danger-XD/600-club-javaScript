@@ -1,4 +1,4 @@
-## Chapter and Its Topic
+## Fundamentals Chapter and Its Topic
 
 - Chapter 1 (Introduction)
 - Chapter 2 (Variable)
@@ -13,4 +13,4 @@
 
 ## Extra Chapters and Its Topic
 
-- 
+- Chapter 10 (Logic build-up technique) 
