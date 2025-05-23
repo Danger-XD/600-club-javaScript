@@ -14,3 +14,4 @@
 ## Extra Chapters and Its Topic
 
 - Chapter 10 (Logic build-up technique) 
+- Chapter 11 (ES6 & Modern JavaScript)
