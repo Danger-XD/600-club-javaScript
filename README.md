@@ -10,8 +10,9 @@
 - Chapter 8 (Object)
 - Chapter 9 (Function)
 
-
 ## Extra Chapters and Its Topic
 
-- Chapter 10 (Logic build-up technique) 
+- Chapter 10 (Logic build-up technique)
 - Chapter 11 (ES6 & Modern JavaScript)
+- Chapter 12 (Broken JavaScript)
+- Chapter 13 (Array Methods)
