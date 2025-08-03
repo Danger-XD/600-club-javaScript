@@ -12,7 +12,10 @@
 
 ## Extra Chapters and Its Topic
 
-- Chapter 10 (Logic build-up technique)
+- Chapter 10 (Logic Build-up Technique)
 - Chapter 11 (ES6 & Modern JavaScript)
 - Chapter 12 (Broken JavaScript)
 - Chapter 13 (Array Methods)
+- Chapter 14 (String Methods)
+- Chapter 15 (Js Core Concepts)
+- Chapter 16 (Built-in Object & Method)
